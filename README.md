@@ -1,4 +1,4 @@
-Bitcoin Tracker App, is an IOS App that Tracks the Bitcoin prices in different three currencies(USD, EUR, EGP), Feel free to develop it and add more currencies ;)
+Bitcoin Tracker App, is an IOS App that Tracks the Bitcoin prices in three different currencies(USD, EUR, EGP), Feel free to develop it and add more currencies ;)
 
 ![Alt Text](https://media.giphy.com/media/L05yKg28WPpQMczccV/giphy.gif)
 
